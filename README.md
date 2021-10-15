@@ -1,7 +1,7 @@
-# ✨ Welcome to @figmentworks
-## 🔭 We are exploring the horizons of interactive learning.
+# ✨ Welcome to @figmentworks 
+🔭 We are exploring the horizons of interactive learning.
 - 📐 Our focus is on:
   - 🧊 3D Printing
   - 🥽 Mixed Reality
   - 🤖 Artifical Intelligence
-- 📫 Contact us at hello@figmentworks.com ...
+📫 Contact us at hello@figmentworks.com ...
